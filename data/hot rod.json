@@ -1,0 +1,17 @@
+{
+    "id": 95355264,
+    "name": "stcubing",
+    "author": "zJinoBeats",
+    "creators": ["stcubing"],
+    "verifier": "4A3T",
+    "verification": "https://www.youtube.com/watch?v=N8fBckzwIkI",
+    "percentToQualify": "88",
+    "records": [
+        {
+        "user": "4A3T",
+        "link": "https://www.youtube.com/watch?v=N8fBckzwIkI",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
+}
