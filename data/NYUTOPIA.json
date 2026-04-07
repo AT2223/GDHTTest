@@ -2,6 +2,7 @@
     "id": 119829177,
     "name": "NYUTOPIA",
     "author": "Tornabro",
+    "creators": ["Tornabro"],
     "verifier": "2mbbl",
     "verification": "https://www.youtube.com/watch?v=mUMDwWQPRwc",
     "percentToQualify": 53,
@@ -10,6 +11,7 @@
             "user": "2mbbl",
             "link": "https://www.youtube.com/watch?v=mUMDwWQPRwc",
             "percent": 100,
+            "hz": 360
         }
     ]
 }
