@@ -97,6 +97,7 @@ export default {
                     <h3>Submission Requirements</h3>
                     <p>
                     You have to be from Ha Tinh to be accepted on the list.
+                    </p>
                     <p>
                     You can submit any demon levels you've beaten, as long as they are in the top 200. I will trust you guys this time, but soon in the future, the requirements can be stricter.
                     </p>
